@@ -1,1 +1,1 @@
-# Corona_19_Prediction
+# Corona_19_Prediction_using_MLAlgorithm
